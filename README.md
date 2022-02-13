@@ -5,7 +5,7 @@ for interfacing with the browser.
 
 ## Demonstration
 
-[![153560377-fc838d4e-5ffb-4dae-bef7-6f8c7e52e6f4](https://user-images.githubusercontent.com/68475422/153745965-83bb9a97-03b3-484f-8483-e450619b9c29.png)(https://www.youtube.com/watch?v=8W_JLySc9-E)]
+[![153560377-fc838d4e-5ffb-4dae-bef7-6f8c7e52e6f4](https://user-images.githubusercontent.com/68475422/153745965-83bb9a97-03b3-484f-8483-e450619b9c29.png)](https://www.youtube.com/watch?v=8W_JLySc9-E)
 
 ## Getting Started with Create React App!
 
